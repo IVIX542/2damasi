@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Empezando el día</title>
+    <link href="https://ivix542.github.io/2damasi/feed.xml" rel="self" />
+    <link href="https://ivix542.github.io/2damasi" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Iván López Benítez</name>
+    </author>
+    <id>https://ivix542.github.io/2damasi</id>
+
+</feed>
