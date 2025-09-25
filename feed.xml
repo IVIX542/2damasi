@@ -3,10 +3,56 @@
     <title>Empezando el día</title>
     <link href="https://ivix542.github.io/2damasi/feed.xml" rel="self" />
     <link href="https://ivix542.github.io/2damasi" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-09-25T20:07:28+02:00</updated>
     <author>
         <name>Iván López Benítez</name>
     </author>
     <id>https://ivix542.github.io/2damasi</id>
 
+    <entry>
+        <title>24/09/2025</title>
+        <author>
+            <name>Iván López Benítez</name>
+        </author>
+        <link href="https://ivix542.github.io/2damasi/24092025.html"/>
+        <id>https://ivix542.github.io/2damasi/24092025.html</id>
+
+        <updated>2025-09-25T20:07:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Buenos días querido blog. Esta vez me he resfriado por dormir con la ventana abierta, cosa que sólo deberías hacer en verano. Ahora estoy esperando a poder hacerme mi café de las 9:10, así podré realizar mis actividades diarias sin dormirme por el camino. Luego haré&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Buenos días querido blog.</p>
+<p>Esta vez me he resfriado por dormir con la ventana abierta, cosa que sólo deberías hacer en verano.</p>
+<p>Ahora estoy esperando a poder hacerme <strong>mi</strong> café de las 9:10, así podré realizar mis actividades diarias sin dormirme por el camino.</p>
+<p>Luego haré las tareas que me mandaron para esta tarde.</p>
+<p>Hasta mañana!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>25/09/2025</title>
+        <author>
+            <name>Iván López Benítez</name>
+        </author>
+        <link href="https://ivix542.github.io/2damasi/25092025.html"/>
+        <id>https://ivix542.github.io/2damasi/25092025.html</id>
+
+        <updated>2025-09-25T20:04:09+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hoy empezaron unas obras en mi casa. Llevo despierto desde las 8 de la mañana, y eso que estudio de tarde. También he podido seguir con los resúmenes que tengo pendientes de algunas asignaturas (gracias a Notebook LM). He estado haciendo los resúmenes mientras veía&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hoy empezaron unas obras en mi casa. Llevo despierto desde las 8 de la mañana, y eso que estudio de tarde.</p>
+<p>También he podido seguir con los resúmenes que tengo pendientes de algunas asignaturas (gracias a Notebook LM).</p>
+<p>He estado haciendo los resúmenes mientras veía un canal de la TV (AXN). Suelo hacer 2 cosas a la vez para no distrarme.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

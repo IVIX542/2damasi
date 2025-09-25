@@ -9,5 +9,33 @@
         "name": "Iván López Benítez"
     },
     "items": [
+        {
+            "id": "https://ivix542.github.io/2damasi/24092025.html",
+            "url": "https://ivix542.github.io/2damasi/24092025.html",
+            "title": "24/09/2025",
+            "summary": "Buenos días querido blog. Esta vez me he resfriado por dormir con la ventana abierta, cosa que sólo deberías hacer en verano. Ahora estoy esperando a poder hacerme mi café de las 9:10, así podré realizar mis actividades diarias sin dormirme por el camino. Luego haré&hellip;",
+            "content_html": "<p>Buenos días querido blog.</p>\n<p>Esta vez me he resfriado por dormir con la ventana abierta, cosa que sólo deberías hacer en verano.</p>\n<p>Ahora estoy esperando a poder hacerme <strong>mi</strong> café de las 9:10, así podré realizar mis actividades diarias sin dormirme por el camino.</p>\n<p>Luego haré las tareas que me mandaron para esta tarde.</p>\n<p>Hasta mañana!</p>",
+            "author": {
+                "name": "Iván López Benítez"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-25T20:07:28+02:00",
+            "date_modified": "2025-09-25T20:07:28+02:00"
+        },
+        {
+            "id": "https://ivix542.github.io/2damasi/25092025.html",
+            "url": "https://ivix542.github.io/2damasi/25092025.html",
+            "title": "25/09/2025",
+            "summary": "Hoy empezaron unas obras en mi casa. Llevo despierto desde las 8 de la mañana, y eso que estudio de tarde. También he podido seguir con los resúmenes que tengo pendientes de algunas asignaturas (gracias a Notebook LM). He estado haciendo los resúmenes mientras veía&hellip;",
+            "content_html": "<p>Hoy empezaron unas obras en mi casa. Llevo despierto desde las 8 de la mañana, y eso que estudio de tarde.</p>\n<p>También he podido seguir con los resúmenes que tengo pendientes de algunas asignaturas (gracias a Notebook LM).</p>\n<p>He estado haciendo los resúmenes mientras veía un canal de la TV (AXN). Suelo hacer 2 cosas a la vez para no distrarme.</p>",
+            "author": {
+                "name": "Iván López Benítez"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-25T20:04:09+02:00",
+            "date_modified": "2025-09-25T20:04:09+02:00"
+        }
     ]
 }
